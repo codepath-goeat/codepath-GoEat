@@ -22,8 +22,8 @@ This alleviates the problem of going to only the same restuarants every time tha
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
-- **Category: Food **
-- **Mobile:        **
+- **Category:**
+- **Mobile:**
 - **Story:**
 - **Market:**
 - **Habit:**
@@ -35,7 +35,6 @@ This alleviates the problem of going to only the same restuarants every time tha
 
 **Required Must-have Stories**
 
-* [fill in your required user stories here]
 * User can create a new account
 * User can login
 * User can configure preference food 
@@ -44,7 +43,6 @@ This alleviates the problem of going to only the same restuarants every time tha
 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
 * The app will generate the directions to the restaurant of choice.
 * The app will get data back from the restaurants and will recommend top 5 servings
 * The app will tell the user how to order the meal for maximum satisfaction based on other customers' feedback
