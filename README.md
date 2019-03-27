@@ -51,14 +51,14 @@ This alleviates the problem of going to only the same restuarants every time tha
 
 ### 2. Screen Archetypes
 
-Login
+- Login
         - Login screen (username and password) #button
         - Signup screen (username, password, and confirm password)
-    Main Screen
+   - Main Screen
         - search bar
         - list of recommended restaurants
         - daily recommendation of restaurant
-    Restaurant
+    - Restaurant
         - pictures of restaurant (logo) 
         - rating
         - review
@@ -67,7 +67,7 @@ Login
         - #Call button - phone number
         - Estimated distance (How far from user location to restaurant)
         - Scheduled Hours
-    Account
+    - Account
         - Account Settings
             - change username
             - change password
