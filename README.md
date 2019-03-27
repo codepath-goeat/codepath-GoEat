@@ -22,12 +22,12 @@ This alleviates the problem of going to only the same restuarants every time tha
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
-- **Category:**
-- **Mobile:**
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
+- **Category:Dining**
+- **Mobile:The app makes use of google maps to redirect the user to the directions of the restaurant**
+- **Story: The app is intended to reduce the risk of eating foods the user is unfamilar with.**
+- **Market: Anyone who is new to a certain area and doesn't know what to order, or anyone who is tired of going to the same restaurant everyday.**
+- **Habit: Happy hour, coupon, new item**
+- **Scope: Could start off by offering the app to incoming freshmen and transfer students who are new to the area**
 
 ## Product Spec
 
@@ -51,12 +51,28 @@ This alleviates the problem of going to only the same restuarants every time tha
 
 ### 2. Screen Archetypes
 
-* [list first screen here]
-   * [list associated required story here]
-   * ...
-* [list second screen here]
-   * [list associated required story here]
-   * ...
+Login
+        - Login screen (username and password) #button
+        - Signup screen (username, password, and confirm password)
+    Main Screen
+        - search bar
+        - list of recommended restaurants
+        - daily recommendation of restaurant
+    Restaurant
+        - pictures of restaurant (logo) 
+        - rating
+        - review
+        - menu and price
+        - #Direction button - address
+        - #Call button - phone number
+        - Estimated distance (How far from user location to restaurant)
+        - Scheduled Hours
+    Account
+        - Account Settings
+            - change username
+            - change password
+            - update prefrences(food)
+            - change name, age
 
 ### 3. Navigation
 
