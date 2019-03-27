@@ -17,11 +17,11 @@ This app allows people who busy and eat at outside everyday find new Resturant s
 
 
 ### Description
-[Description of your app]
+
 This alleviates the problem of going to only the same restuarants every time that they are hungry - Very often variety is necessary to feel like one is having a wholesome experience, and this is very true in the realm of food.
 
 ### App Evaluation
-[Evaluation of your app across the following attributes]
+
 - **Category:Dining**
 - **Mobile:The app makes use of google maps to redirect the user to the directions of the restaurant**
 - **Story: The app is intended to reduce the risk of eating foods the user is unfamilar with.**
@@ -78,22 +78,25 @@ Login
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Home Screen (where the restaurants and recommendations are listed)
+* Settings (account and preference settings)
+
 
 **Flow Navigation** (Screen to Screen)
 
-* [list first screen here]
-   * [list screen navigation here]
-   * ...
-* [list second screen here]
-   * [list screen navigation here]
-   * ...
+* Login Screen
+   * User can login/signup
+  
+* Home Screen
+   * List of recommendations of restaurants
+* Search screen
+   * Search a restaurant for details
+* Settings screen
+   * Update account and preferences
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="https://balsamiq.cloud/silbali/pnudg0o/r2278" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
