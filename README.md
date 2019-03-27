@@ -97,6 +97,7 @@ This alleviates the problem of going to only the same restuarants every time tha
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
 <img src="https://balsamiq.cloud/silbali/pnudg0o/r2278" width=600>
+https://balsamiq.cloud/silbali/pnudg0o/r2278
 
 ### [BONUS] Digital Wireframes & Mockups
 
